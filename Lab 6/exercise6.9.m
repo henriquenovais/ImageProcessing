@@ -1,9 +1,9 @@
 %Filter an image through the usage of multiple other imagesc
-%The noise used in this example is the Gaussian noise
+%The noise used in this example is the salt & pepper noise
 
 I = imread('cameraman.tif');
-J = imnoise(I, 'gaussian');
-K = imnoise(I, 'gaussian');
+J = imnoise(I, 'salt & pepper');
+K = imnoise(I, 'salt & pepper');
 
 subplot(2,3,1);
 imshow(I), title('Original Image');
