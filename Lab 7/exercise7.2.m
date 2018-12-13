@@ -1,4 +1,4 @@
-%Dilate image with structuring element SE
+%Dilate image with a square as the structuring element 
 
 BW1 = imread('circulos.tif');
 subplot(2,3,1), imshow(BW1), title('Original Image');
