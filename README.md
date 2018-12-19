@@ -27,14 +27,14 @@ of Octave</h5>
 
 <p>The contents are organized with the examples growing in complexity based on the following themes:</p>
 
-<ol>
+<ul>
 	<li><b>Lab 2:</b> introduction to basic image manipulation functions </li>
 	<li><b>Lab 3:</b> logic, Arithmetic and statistic image manipulation tools </li>
 	<li><b>Lab 4:</b> geometric transformations for image manipulation</li>
 	<li><b>Lab 5:</b> image histogram modification techniques</li>
 	<li><b>Lab 6:</b> image filtering through spatial domain</li>
 	<li><b>Lab 7:</b> mathematical morphology for image processing </li>
-</ol>
+</ul>
 
 <p> All content hereby taught is thanks to <b>Dr. Eldman de Oliveira Nunes</b>,a very dedicated teacher.</p>
 
