@@ -23,8 +23,21 @@ of Octave</h5>
 </li> 
 </ol>
 
-<p>Now you are ready to use the scripts created in this repository, the scripts here teach basic operations using images(geometric, arithmetic and logic) and intermediary ones such as histogram compression and expansion. All content hereby taught is thanks to <b>Dr. Eldman de Oliveira Nunes</b>,a very dedicated teacher.</p>
+<p>Now you are ready to use the scripts created in this repository, the scripts here teach basic operations using images(geometric, arithmetic and logic) and intermediary ones such as histogram compression and expansion in addition to methods for image filtering.</p>
 
-<a href="http://cursos.eldman.com.br/">Dr. Eldman's Website</a>
+<p>The contents are organized with the examples growing in complexity based on the following themes:</p>
+
+<ol>
+	<li><b>Lab 2:</b> introduction to basic image manipulation functions </li>
+	<li><b>Lab 3:</b> logic, Arithmetic and statistic image manipulation tools </li>
+	<li><b>Lab 4:</b> geometric transformations for image manipulation</li>
+	<li><b>Lab 5:</b> image histogram modification techniques</li>
+	<li><b>Lab 6:</b> image filtering through spatial domain</li>
+	<li><b>Lab 7:</b> mathematical morphology for image processing </li>
+</ol>
+
+<p> All content hereby taught is thanks to <b>Dr. Eldman de Oliveira Nunes</b>,a very dedicated teacher.</p>
+
+<a href="http://www.eldman.com.br/">Dr. Eldman's Website</a>
 
 
